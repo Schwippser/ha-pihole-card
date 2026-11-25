@@ -1,0 +1,5 @@
+{
+  "name": "HA Pi-hole Card",
+  "render_readme": true,
+  "filename": "ha-pihole-card.js"
+}
